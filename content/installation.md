@@ -5,7 +5,7 @@ description: Installing MT-RAC+ as an app
 
 ## Android
 
-Visit [MT-RAC+](https://havenofexcellence.me/) on Chrome, and use the "Install App" option:
+Visit [MT-RAC+](https://mtrac.ado.sg/) on Chrome, and use the "Install App" option:
 
 ![](/mtrac-guide/screenshots/install-chrome.jpg)
 

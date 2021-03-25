@@ -6,4 +6,4 @@ Welcome to the MT-RAC+ Guide. Please navigate to the appropriate section to lear
 
 Please start at the accounts guide, then move on to the transport operators and countersigners guide depending on your role.
 
-Click [here](https://havenofexcellence.me/) to go back to MT-RAC+.
+Click [here](https://mtrac.ado.sg/) to go back to MT-RAC+.
