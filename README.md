@@ -1,6 +1,6 @@
 # MT-RAC+ Guide
 
-This is a guide page/app for the main application [MT-RAC+](https://mtrac.ado.sg/)
+This is a guide page/app for the main application [MT-RAC+](https://go.gov.sg/mt-rac/)
 
 It is separated out from the main project to provide easier updating of the guide page for faster build times, easier to update etc.
 
@@ -44,7 +44,7 @@ The page will automatically build after the file is saved.
 
 You can look at the build logs from the [Actions Tab](https://github.com/HavenOfExcellence/mtrac-guide/actions)
 
-Once a green tick is shown, the site will be available at either at [MT-RAC+/mtrac-guide](mtrac.ado.sg/mtrac-guide/) or [Repository Docs Page](https://havenofexcellence.github.io/mtrac-guide/) (Both serve identical content)
+Once a green tick is shown, the site will be available at either at [MT-RAC+/mtrac-guide](mtrac.ternary.digital/mtrac-guide/) or [Repository Docs Page](https://havenofexcellence.github.io/mtrac-guide/) (Both serve identical content)
 
 ## Advanced development
 

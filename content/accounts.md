@@ -5,7 +5,7 @@ description: Signing up and logging in
 
 ## Creating an account
 
-To create an account, please visit [mtrac.ado.sg/signup](https://mtrac.ado.sg/signup):
+To create an account, please visit [mtrac.ternary.digital/signup](https://mtrac.ternary.digital/signup):
 
 ![](/mtrac-guide/screenshots/signup.png)
 
@@ -23,6 +23,6 @@ If you are a **Transport Operator**, you will be asked to specify your licences.
 
 ## Logging in
 
-After signing up, you will be redirected to the login page ([mtrac.ado.sg/login](https://mtrac.ado.sg/login)):
+After signing up, you will be redirected to the login page ([mtrac.ternary.digital/login](https://mtrac.ternary.digital/login)):
 
 ![](/mtrac-guide/screenshots/login.png)
